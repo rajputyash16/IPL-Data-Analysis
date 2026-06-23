@@ -38,6 +38,7 @@ The project follows a modular structure and demonstrates real-world data analysi
 - ✅ Automatic Chart Saving
 - ✅ Modular Python Project Structure
 - ✅ Professional Code Organization
+- ✅ GitHub Ready Project
 
 ---
 
@@ -154,30 +155,53 @@ IPL-Data-Analysis/
 
 ---
 
-# 📸 Output
+## 📸 Sample Visualizations
 
-All generated visualizations are automatically saved inside:
+<table>
 
-```text
-output/charts/
-```
+<tr>
 
-### Sample Charts
+<td align="center">
+<b>🏆 Team Wins Analysis</b><br>
+<img src="assets/images/team_wins.png" width="420"/>
+</td>
 
-- Team Wins Analysis
-- Team Win Percentage
-- Top Run Scorers
-- Top Wicket Takers
-- Orange Cap Analysis
-- Purple Cap Analysis
-- Highest Team Score
-- Lowest Team Score
-- Economy Analysis
-- Venue Analysis
-- Season Wise Runs
-- Season Wise Wickets
-- Best Batting Teams
-- Best Bowling Teams
+<td align="center">
+<b>🥇 Orange Cap Analysis</b><br>
+<img src="assets/images/orange_cap.png" width="420"/>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<b>🟣 Purple Cap Analysis</b><br>
+<img src="assets/images/purple_cap.png" width="420"/>
+</td>
+
+<td align="center">
+<b>📈 Season Wise Runs</b><br>
+<img src="assets/images/season_runs.png" width="420"/>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<b>🏟️ Venue Average Score</b><br>
+<img src="assets/images/venue_average_score.png" width="420"/>
+</td>
+
+<td align="center">
+<b>🎯 Economy Analysis</b><br>
+<img src="assets/images/economy.png" width="420"/>
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -213,7 +237,7 @@ output/charts/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/IPL-Data-Analysis.git
+git clone https://github.com/rajputyash16/IPL-Data-Analysis.git
 ```
 
 Move to project directory
@@ -249,9 +273,11 @@ python main.py
 
 # 👨‍💻 Author
 
+# 👨‍💻 Author
+
 ## Yash Rajput
 
-**Aspiring Data Analyst**
+Aspiring Data Analyst
 
 ### Skills
 
@@ -264,8 +290,12 @@ python main.py
 - Seaborn
 - Machine Learning
 
+⭐ Feel free to explore this project and connect with me.
+
 ---
 
 ## ⭐ If you found this project useful, don't forget to Star this repository.
 
-Thank you for visiting this project!
+Thank you for visiting this repository.
+
+⭐ If you found this project useful, please consider giving it a Star.
