@@ -273,8 +273,6 @@ python main.py
 
 # 👨‍💻 Author
 
-# 👨‍💻 Author
-
 ## Yash Rajput
 
 Aspiring Data Analyst
